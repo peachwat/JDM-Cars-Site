@@ -52,4 +52,4 @@ Wystarczy otworzyć plik `Project 1/src/web/index1.html` w przeglądarce.
 
 ---
 **Autor:** Evelina Rylova
-**Status:** Projekt zaliczeniowy
+
